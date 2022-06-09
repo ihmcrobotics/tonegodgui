@@ -15,8 +15,7 @@ ihmc {
 }
 
 dependencies {
-   //api("com.jme3:jme3-core:3.0.10")
-   api("us.ihmc:jme3-core:3.2.0-171209")
+   api("org.jmonkeyengine:jme3-core:3.5.2-stable")
 }
 
 gradle.projectsEvaluated {
